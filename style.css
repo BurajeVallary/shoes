@@ -1,0 +1,143 @@
+.pics img{
+    margin-left: 70%;
+padding-top: none;
+    
+}
+
+/* .nav ul li{
+    /* padding: 20px 150px 20px; */
+    /* list-style-type: none;
+    justify-content: right;
+    display: inline-block;
+    justify-content: space-between; */
+     */
+}
+.footer{
+    color: white;
+    background-color:orangered;
+    display: flex;
+}    
+.light{
+    color: orangered;
+}
+ .background{
+    float:right;
+    width: 500px;
+    height:700px;
+    background-color:orangered;
+    border-radius: 350px / 250px 0px 750px;
+
+} 
+.nav ul li {
+    
+    display: inline-flex;
+    list-style: none;
+}
+.nav{
+    display: inline-flex;
+}
+.bar li{
+    list-style: none;
+    display: inline-flex;
+    padding:  0px 30px 0px 30px;
+
+}
+.bar2{
+    position: absolute;
+    float: right;
+}
+.navbar{
+    width: 1200px;
+    height:75px;
+    margin: auto;
+       
+}
+.icon{
+    width: 100px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: orangered;
+    font-size: 35px;
+
+}
+.menu{
+    width:400px;
+    float: left;
+    height: 70px;
+    
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style-type: none;
+    margin-left: 60px;
+    margin-top: 0px;
+    font-size: 10px;
+
+}
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: Arial;
+    font-weight: bold;
+ transition: 0.4s ease-in-out; 
+}
+ul li a:hover{
+    color: orange;
+}
+.search{
+    width: 330px;
+    float: left;
+    margin-left: 7px;
+}
+.the{
+    float: left;
+    margin-right: 8px;
+}
+.highlight{
+    color: orangered;
+}
+.find{
+    background-color: orangered
+    ;
+
+}
+.best{
+    text-align: center;
+    
+}
+#black{
+    width: 30%;
+    height: 30%;
+}
+.view{
+     background-color:  orangered;
+    
+}
+#shoes{
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: right;
+    }
+    .vw{
+        background-color:  orangered;
+    
+        }
+        .w{
+            background-color:  orangered;
+        
+            }
+    #try{
+        width: 30%;
+        height: 30%;
+       } 
+       
+   
+

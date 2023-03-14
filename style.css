@@ -347,10 +347,10 @@ ul li a:hover{
         
     }
     #nin{
-        width: 270%;
+        width: 70%;
         height: 40%;
        
-        padding-right: 50px;
+        padding-right: 200px;
 }
 .three{
     display: flex;
@@ -377,14 +377,15 @@ ul li a:hover{
         margin-right: 5%;
     }
     .h{
-        width: 70%;
-        padding: 22px 12 px;
+        width: 20%;
+        padding: 22px 82px;
         background-color: white;
         border-radius: 1em;
       
     }
     #dim{
         width: 300%;
+        padding-right: 57px;
        
     }
 
@@ -515,6 +516,7 @@ ul li a:hover{
    background-color: rgb(255, 51, 0);
    color: aliceblue;
    width: 110%;
+  
 
   }
   .im{
@@ -546,7 +548,7 @@ ul li a:hover{
 }
 .sur{
     background-color: palevioletred;
-    border-radius: 30px;
+    border-radius: 50px;
     width: 110%;
     padding-top: 5%;
     text-align: center;
@@ -571,6 +573,7 @@ ul li a:hover{
 }
 .fur{
     width: 50%;
+   
 }
 .cial{
 
@@ -647,3 +650,143 @@ ul li a:hover{
         margin-top: -2em;
         margin-right: -5px;
       }
+      .Nikey{
+       display: inline;
+       display: flex;
+      }
+      .min{
+        color: rgb(255, 51, 0);
+      }
+      .lac{
+        font-weight: bolder;
+      }
+      .off{
+        color: rgb(255, 51, 0);
+      }
+      .select{
+        color: rgb(255, 51, 0);
+      }
+      .size{
+        color: rgb(255, 51, 0);
+      }
+      .sam{
+        display: flex;
+        margin-left: 20px;
+        margin-right: 22px;
+        
+      }
+      .nikeblack{
+        margin-left: 650px;
+        /* margin-bottom: -900px; */
+        position: relative;
+       bottom: 500px;
+      }
+      .sim{
+    /* margin-bottom: 50px;
+    font-size: larger; */
+    font-weight: bolder;
+    /* text-align: center; */
+    padding-left: 30%
+      }
+     .lar{
+        position: relative;
+        bottom: 450px;
+     }
+     .tar{
+        position: relative;
+        bottom: 350px;
+     }
+     .fin{
+        position: relative;
+        bottom: 350px;
+     }
+     .pinky{
+        position: relative;
+        bottom: 350px;
+        
+     }
+     .out{
+        position: relative;
+        bottom: 350px;
+        
+     }
+     .pink{
+        display: flex;
+        gap: 3rem;
+       
+     }
+     .vision{
+        position: relative;
+        bottom: 350px;
+        
+     }
+      .oe{
+        width: 400px;
+       
+       
+        
+     }
+     .op{
+        width: 200px;
+     }
+     .ol{
+        width: 200px;
+     }
+     .ok{
+        width: 200px;
+     }
+      .s{
+        border-radius: 200%;
+        background-color: orange;
+        height: 20%;
+        width: 20px;
+      }
+      .vis{
+        position: relative;
+        bottom: 350px;
+        
+      }
+      .pi{
+        display: flex;
+        position: relative;
+        left: 750px;
+        bottom: 300px;
+        /* width: 100px; */
+        /* margin-right: 800px; */
+      }
+      .ink{
+        position: relative;
+        bottom: 250px;
+        display: flex;
+       
+        }
+        .out{
+          margin-left: 22px;
+          font-size: 30px;
+        }
+        .ef{
+          position: relative;
+          bottom: 550px;
+        }
+        .stone{
+          width: 200px;
+        }
+        .sr{
+          border-radius: 50px;
+        }
+        .sion{
+          font-size: 22px;
+        }
+       #brown{
+         background-color: white; 
+        /* border-left: solid  color rgb(255, 51, 0); 
+        border-top:  color rgb(255, 51, 0);
+        border-width: 100px; */
+      } 
+       /* .sec{
+        /* float: left;
+        background-color:  color rgb(255, 51, 0);
+        width: 300px;
+         height: 450px;
+        /* border-radius: 1550px/0px 1250px 4550px 1500px;  */
+      }  */ */

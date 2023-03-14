@@ -676,10 +676,10 @@ ul li a:hover{
         
       }
       .nikeblack{
-        margin-left: 650px;
+        margin-left: 750px;
         /* margin-bottom: -900px; */
         position: relative;
-       bottom: 500px;
+       bottom: 700px;
       }
       .sim{
     /* margin-bottom: 50px;
@@ -779,14 +779,25 @@ ul li a:hover{
         }
        #brown{
          background-color: white; 
-        /* border-left: solid  color rgb(255, 51, 0); 
-        border-top:  color rgb(255, 51, 0);
-        border-width: 100px; */
+        border-left: solid red;
+        border-top: solid  red;
+        border-width: 150px;
+        border-radius: 20px;
+        /* border-radius: 1550px/0px 1250px 4000px 1600px;   */
+     
+        
+
+
+      
+;
       } 
-       /* .sec{
-        /* float: left;
+        .sec{
+         /* float: left;
         background-color:  color rgb(255, 51, 0);
         width: 300px;
          height: 450px;
-        /* border-radius: 1550px/0px 1250px 4550px 1500px;  */
-      }  */ */
+         border-radius: 1550px/0px 1250px 4550px 1500px; 
+      }   */
+      @media only  screen {
+        
+      }

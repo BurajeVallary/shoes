@@ -16,6 +16,7 @@ padding-top: none;
     color: white;
     background-color:orangered;
     display: flex;
+
 }    
 .light{
     color: orangered;
@@ -516,6 +517,8 @@ ul li a:hover{
    background-color: rgb(255, 51, 0);
    color: aliceblue;
    width: 110%;
+   display: grid;
+   grid-template-columns: repeat(2,1fr);
   
 
   }
@@ -690,11 +693,13 @@ ul li a:hover{
       }
      .lar{
         position: relative;
-        bottom: 450px;
+        bottom: 650px;
      }
      .tar{
         position: relative;
-        bottom: 350px;
+        bottom: 550px;
+        /* top: 500px; */
+       
      }
      .fin{
         position: relative;
@@ -754,6 +759,9 @@ ul li a:hover{
         /* width: 100px; */
         /* margin-right: 800px; */
       }
+      .main1{
+        width: 100%;
+      }
       .ink{
         position: relative;
         bottom: 250px;
@@ -785,19 +793,56 @@ ul li a:hover{
         border-radius: 20px;
         /* border-radius: 1550px/0px 1250px 4000px 1600px;   */
      
-        
-
-
       
-;
       } 
-        .sec{
-         /* float: left;
-        background-color:  color rgb(255, 51, 0);
-        width: 300px;
-         height: 450px;
-         border-radius: 1550px/0px 1250px 4550px 1500px; 
-      }   */
-      @media only  screen {
+        @media (max-width:100px){
+        .main1{
+          grid-template-columns: repeat(1,fr)
+
+        }
+        }
+       .brown{
+          width: 70px;
+        }
+        .body{
+          width: 38;
+        }
+       
         
-      }
+
+        @media(max-width:25px){
+
+        }
+        @media(max-width:450px){
+         .body{
+          width: 200px;
+         }
+
+        } 
+        @media(max-width){
+          .main1{
+            width: fit-content;
+          }
+
+        }
+        @media only screen and (max-width:480px){
+          html,body{
+            width: 100%;
+            height:100% ;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+
+          }
+         
+        }  @media only screen and (max-width:340px){
+          html,body{
+            width: 100%;
+            height:100% ;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+
+          }
+
+        }

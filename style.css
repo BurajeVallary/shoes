@@ -1022,10 +1022,10 @@ ul li a:hover{
     margin-top: -300px;
     
   }
-  .vs{
+  /* .vs{
   margin-bottom: 10px;
   margin-top: -300px;
-  }
+  } */
   .ik{
     position: relative;
     top: 300px;
@@ -1043,6 +1043,142 @@ ul li a:hover{
   bottom: 200px;
 }
    */
+.contact{
+  background-color: lightgray;
+  overflow-x: hidden;
+  overflow-y: scroll;
 
- 
+}
+.hold{
+  text-align: center;
+}
+.have{
+  text-align: center;
+}
+.f1{
+  margin-right: 20%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+
+}
+.f2{
+  margin-right: 20%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  
+}
+.f3{
+  margin-right: 20%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  
+}
+.f4{
+  margin-right: 20%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  
+}
+.f5{
+  margin-right: 20%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  /* padding-bottom: 90px; */
+  
+}
+.bord{
+  float: right;
+  width: 300px;
+  height: 700px;
+  background-color: red;
+  border-radius: 200px/200px 0px 0px 200px;
+}
+#ho6{
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  background-color: orangered;
+position: relative;
+top: 20px;
+  
+
+  
+  }
+  .have{
+    margin-right:10 px;
+  }
+  .hold{
+    margin-left: 2%;
+}
+#ho1{
+    background-color: white;
+    color: black;
+    border-color: white;
+    border-color:whitesmoke;
+    border-bottom: whitesmoke;
+    border-right: whitesmoke;
+    border-radius: 25px;
+    padding: 20px;
+}
+#ho2{
+    background-color: white;
+    color: black;
+    border-color:whitesmoke;
+    border-bottom: whitesmoke;
+    border-right: whitesmoke;
+    padding: 20px;
+    border-radius: 25px;
+}
+#ho3{
+    background-color: white;
+    color: black;
+    border-color:whitesmoke;
+    border-bottom: whitesmoke;
+    border-right: whitesmoke;
+    padding: 20px;
+    border-radius: 25px;
+}
+#ho4{
+    background-color: white;
+    color: black;
+    border-color:whitesmoke;
+    border-bottom: whitesmoke;
+    border-right: whitesmoke;
+    padding: 20px;
+    border-radius: 25px;
+}
+#ho5{
+    background-color: white;
+    color: black;
+    border-color:whitesmoke;
+    border-bottom: whitesmoke;
+    border-right: whitesmoke;
+    padding-bottom: 90px;
+    /* padding: 20px; */
+    border-radius: 25px;
    
+     
+}
+#hav{
+    margin-left: 25%;
+}
+
+ #code{
+    margin-left: 40%;
+    margin-bottom: 10px;
+ }  
+
+#ho6{
+    background-image: linear-gradient(to right,red,rgb(255, 174, 0));
+    border-radius: 22px;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.su{
+    margin-left: 30%;
+}

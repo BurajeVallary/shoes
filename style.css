@@ -8,13 +8,6 @@ body{
   overflow-x: hidden;
 }
 
-/* .nav ul li{
-    /* padding: 20px 150px 20px; */
-    /* list-style-type: none;
-    justify-content: right;
-    display: inline-block;
-    justify-content: space-between; */
-     */
 
 .footer{
     color: white;
@@ -196,15 +189,18 @@ ul li a:hover{
            
         }
         .ma{
-            /* display: flex; */
-            /* margin-right: 10%; */
+            
             margin-left: 38%;
             padding-right: 20px;
 
         }
         .ik{
-            /* display: flex; */
-            margin-left: 5%;
+           
+              
+          margin-left: 38%;
+          padding-right: 20px;
+         
+
         }
         .b{
             display: flex;
@@ -444,8 +440,7 @@ ul li a:hover{
   }
 
     .come{
-        /* display: flex;
-        text-decoration: none; */
+        
         margin-right: 30%;
   }
   .image2{
@@ -457,8 +452,8 @@ ul li a:hover{
   width: 60%;
 }
 .mango{
-    /* position: relative;
-  left: 10px; */
+     position: relative;
+  left: 10px; 
   margin-left: 40%;
   margin-top: -40%;
   }
@@ -532,7 +527,7 @@ ul li a:hover{
    /* display: grid; */
    /* grid-template-columns: repeat(2,1fr); */
   
-
+   .cut
   }
   .im{
     justify-content: space-between; 
@@ -1022,13 +1017,13 @@ ul li a:hover{
     margin-top: -300px;
     
   }
-  /* .vs{
+  .vs{
   margin-bottom: 10px;
   margin-top: -300px;
-  } */
+  } 
   .ik{
-    position: relative;
-    top: 300px;
+    /* position: relative;
+    top: 900px; */
   }
 .out{
   margin-left: 300px;
@@ -1096,7 +1091,7 @@ ul li a:hover{
   width: 300px;
   height: 700px;
   background-color: red;
-  border-radius: 200px/200px 0px 0px 200px;
+  border-radius: 200px/300px 0px 0px 200px; 
 }
 #ho6{
   padding: 20px;
@@ -1116,14 +1111,18 @@ top: 20px;
     margin-left: 2%;
 }
 #ho1{
-    background-color: white;
+     background-color: white;
     color: black;
     border-color: white;
     border-color:whitesmoke;
     border-bottom: whitesmoke;
     border-right: whitesmoke;
     border-radius: 25px;
-    padding: 20px;
+    padding: 25px; 
+    padding-right: 100px;
+}
+.ion-icon{
+margin-left: 5px;
 }
 #ho2{
     background-color: white;
@@ -1182,3 +1181,5 @@ top: 20px;
 .su{
     margin-left: 30%;
 }
+
+
